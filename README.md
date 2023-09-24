@@ -11,11 +11,11 @@
 
 > Склонируйте проект
 
-- git clone [https://github.com/bumerboy86/train-game-part03.git]
+- git clone [https://github.com/bumerboy86/train-game-part04.git]
 
 > Войдите в дирректорию с проектом
 
-- cd train-game-part03
+- cd train-game-part04
 
 > Установите зависимости
 
